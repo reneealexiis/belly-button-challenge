@@ -6,5 +6,6 @@ In this project, I built an interactive dashboard to explore the Belly Button Bi
 ## Instructions to Final Work 
 My final work can be found by going to this custom link: 
 You may find my code in the "app_RP.js" file in the js folder in the Starter_Code. 
+I used the XPert AI Assistant for script generation. I did not work with anyone else on the project. 
 
 Thank you! 
